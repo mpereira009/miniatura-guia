@@ -1,0 +1,2 @@
+# miniatura-guia
+somente repositório
